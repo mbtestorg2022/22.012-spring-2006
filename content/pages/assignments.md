@@ -39,7 +39,7 @@ Brian Kardon
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-"Ignition of a Confined Plasma" (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/ignit_con_plasma))
+"Ignition of a Confined Plasma" ([PDF - 2.1 MB]({{< baseurl >}}/resources/ignit_con_plasma))
 {{< tdclose >}}
 {{< tdopen >}}
 Katie Stanchak
