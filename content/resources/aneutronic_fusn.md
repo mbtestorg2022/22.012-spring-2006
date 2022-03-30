@@ -8,6 +8,7 @@ description: 'This file includes the following topics:
   fusion, field reversed configuration (FRC), and FRC formation.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/ffe694ada6665d36321c46de97c62888_aneutronic_fusn.pdf
 file_type: application/pdf
+parent_uid: e9b2b2ff-a450-da4b-95ff-158cf532ae2f
 resourcetype: Document
 title: aneutronic_fusn.pdf
 uid: ffe694ad-a666-5d36-321c-46de97c62888

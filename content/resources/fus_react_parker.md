@@ -10,6 +10,7 @@ description: 'This file includes the following topics:
   breakeven.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/22-012-seminar-fusion-and-plasma-physics-spring-2006/3ab34294ee568ce890748df998c83f0e_fus_react_parker.pdf
 file_type: application/pdf
+parent_uid: e9b2b2ff-a450-da4b-95ff-158cf532ae2f
 resourcetype: Document
 title: fus_react_parker.pdf
 uid: 3ab34294-ee56-8ce8-9074-8df998c83f0e
